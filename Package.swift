@@ -16,7 +16,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/vapor/vapor.git", from: "4.0.0"),
-        .package(url: "https://github.com/Apodini/Collector", .branch("develop"))
+        .package(url: "https://github.com/Apodini/Collector", from: "0.1.0")
     ],
     targets: [
         .target(
