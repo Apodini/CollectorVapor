@@ -1,0 +1,33 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/CollectorVapor/CollectorVapor/Sources/CollectorVapor/Collector+HTTPClientRequest.swift",
+      "line": 15,
+      "symbol": "Tracer.span(name:startTime:from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CollectorVapor/CollectorVapor/Sources/CollectorVapor/Collector+HTTPClientRequest.swift",
+      "line": 33,
+      "symbol": "Span.propagate(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CollectorVapor/CollectorVapor/Sources/CollectorVapor/Collector+Request.swift",
+      "line": 15,
+      "symbol": "Tracer.span(name:startTime:from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/CollectorVapor/CollectorVapor/Sources/CollectorVapor/Collector+Request.swift",
+      "line": 33,
+      "symbol": "Span.propagate(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/CollectorVapor/CollectorVapor"
+}
